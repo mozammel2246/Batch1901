@@ -6,7 +6,7 @@ public class WorkSchedule {
         String[] personNames = {"Jason", "Robert", "Natalie", "John", "Jacy"};
         String names;
         /*
-        * declaration of case must be statement, can't use array or can't call from
+        * declaration of case must be a statement
         * */
         switch (hrs){
             case 1200: names = personNames[0];
